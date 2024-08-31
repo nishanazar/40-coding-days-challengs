@@ -16,5 +16,5 @@ function dividesTwoNumbers(a, b) {
         Remainder: remainder,
     };
 }
-console.log(dividesTwoNumbers(10, 3));
-console.log(dividesTwoNumbers(20, 2));
+console.log(dividesTwoNumbers(10, 3)); // { Quotient: 3, Remainder: 1 }
+console.log(dividesTwoNumbers(20, 2)); // { Quotient: 10, Remainder: 0 }
