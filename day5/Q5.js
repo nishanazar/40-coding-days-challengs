@@ -23,5 +23,5 @@ function countAlphabets(str) {
     }
     return count;
 }
-console.log(countAlphabets("Hello, World! 123"));
-console.log(countAlphabets("Good Morning bob! hey how are you"));
+console.log(countAlphabets("Hello, World! 123")); // 10
+console.log(countAlphabets("Good Morning bob! hey how are you")); // 26
