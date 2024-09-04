@@ -19,7 +19,12 @@ let result = replaceTheSentance(
 );
 console.log(result);
 
-
+// =>Summary:
+// JavaScript/g ek regular expression (RegEx) hai, jo specific text patterns ko search karne ke liye
+// use hota hai.
+// /JavaScript/: Search karega word "JavaScript" ko.
+// g Flag: Ensure karega ke ye pattern globally, yaani poori string mein dhoonda jaaye aur har 
+// instance ko replace kiya jaaye.
 
 
 
