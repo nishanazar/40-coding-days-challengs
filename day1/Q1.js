@@ -1,5 +1,6 @@
 "use strict";
 //--------------Question: 1-----------------------
+Object.defineProperty(exports, "__esModule", { value: true });
 function mergeTextWithNumber(text, num) {
     return `${text}: ${num}`;
 }

@@ -1,5 +1,6 @@
 "use strict";
 //---------------Question: 13--------------------------- 
+Object.defineProperty(exports, "__esModule", { value: true });
 let car1 = {
     make: "Toyota",
     model: "Corolla",

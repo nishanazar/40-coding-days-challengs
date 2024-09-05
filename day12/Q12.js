@@ -1,5 +1,6 @@
 "use strict";
 //---------------Question: 23---------------------------
+Object.defineProperty(exports, "__esModule", { value: true });
 let array = ["Apple", "Banana", "Grapes"];
 array.push("Strabery");
 console.log(array);

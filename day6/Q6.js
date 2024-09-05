@@ -1,5 +1,6 @@
 "use strict";
 //---------------Question: 11---------------------------
+Object.defineProperty(exports, "__esModule", { value: true });
 let squaringAnNumber = function (num) {
     return num * num;
 };

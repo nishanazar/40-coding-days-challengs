@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 //--------------Question: 5-----------------------------
 function decimalNumber(num1, num2) {
     let product = num1 * num2;

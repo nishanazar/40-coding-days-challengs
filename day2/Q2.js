@@ -1,5 +1,6 @@
 "use strict";
 //--------------Question: 3-----------------------------
+Object.defineProperty(exports, "__esModule", { value: true });
 function checkBothTrue(value1, value2) {
     return value1 && value2;
 }

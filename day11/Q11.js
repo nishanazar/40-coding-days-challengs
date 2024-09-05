@@ -1,5 +1,6 @@
 "use strict";
 //---------------Question: 21---------------------------
+Object.defineProperty(exports, "__esModule", { value: true });
 function RoundingNumbers(decimal) {
     return decimal.toFixed(2);
 }

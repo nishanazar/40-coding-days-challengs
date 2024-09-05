@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 //--------------Question: 9-----------------------------
 function compoundOperations() {
     let x = 4;

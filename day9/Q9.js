@@ -1,5 +1,6 @@
 "use strict";
 //---------------Question: 17---------------------------
+Object.defineProperty(exports, "__esModule", { value: true });
 function findCodePosition(str) {
     let position = str.indexOf("code");
     return position;

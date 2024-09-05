@@ -1,5 +1,6 @@
 "use strict";
 //---------------Question: 19---------------------------
+Object.defineProperty(exports, "__esModule", { value: true });
 function ExtractingASubstring(str) {
     return str.substring(0, 10);
 }

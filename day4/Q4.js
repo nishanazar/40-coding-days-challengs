@@ -1,5 +1,6 @@
 "use strict";
 //--------------Question: 7-----------------------------
+Object.defineProperty(exports, "__esModule", { value: true });
 function loopNumber() {
     for (let i = 1; i <= 10; i++) {
         setTimeout(() => {

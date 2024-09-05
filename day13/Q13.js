@@ -1,13 +1,11 @@
 "use strict";
 //---------------Question: 25---------------------------
+Object.defineProperty(exports, "__esModule", { value: true });
 function replaceBananaWithMango(fruits) {
     const index = fruits.indexOf("Banana");
-    // Finds the index of "Banana"
     if (index !== -1)
         fruits[index] = "Mango";
-    // Replaces "Banana" with "Mango" if found
 }
-// Example: Replacing "Banana" in the array
 const fruits = ["Apple", "Banana", "Cherry"];
 replaceBananaWithMango(fruits);
 console.log(fruits); // Outputs: ['Apple', 'Mango', 'Cherry']

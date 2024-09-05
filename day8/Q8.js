@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 //---------------Question: 15---------------------------
 function UpperAndLowerCase(str) {
     let lowerCase = str.toLowerCase();
