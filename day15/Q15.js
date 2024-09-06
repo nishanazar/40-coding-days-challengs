@@ -8,7 +8,7 @@ function currentDate() {
     let year = now.getFullYear();
     return `${day}-${month}-${year}`;
 }
-console.log(currentDate());
+console.log(currentDate()); // 05-09-2024
 //---------------Question: 30---------------------------
 function daysUntilNewYear() {
     let currentDate = new Date();
@@ -18,4 +18,4 @@ function daysUntilNewYear() {
     const daysDifference = Math.ceil(timeDefference / (1000 * 60 * 60 * 24));
     console.log(`${daysDifference} days left until New Year!`);
 }
-daysUntilNewYear();
+daysUntilNewYear(); // 118 days left until New Year!
