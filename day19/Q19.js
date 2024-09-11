@@ -14,6 +14,4 @@ function isLeapyear(year) {
     }
     return false;
 }
-console.log(isLeapyear(2024));
-console.log(isLeapyear(2025));
-console.log(isLeapyear(2026));
+console.log(isLeapyear(2024)); // true

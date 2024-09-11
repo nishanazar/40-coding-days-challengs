@@ -8,4 +8,4 @@ console.log(random);
 let num1 = -5;
 let num2 = 5;
 let difference = Math.abs(num1 - num2);
-console.log(difference);
+console.log(difference); //10

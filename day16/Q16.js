@@ -12,7 +12,9 @@ function getNextBirthday(month, day) {
 }
 const nextBirthday = getNextBirthday(6, 25);
 console.log("Next birthday on:", nextBirthday.toLocaleDateString());
+//Output: Next birthday on: 25/06/2025
 //---------------Question: 32---------------------------
 let num = 144;
 let squareRoot = Math.sqrt(num);
 console.log(`Square root of ${num} is:`, squareRoot);
+// Ouyput: Square root of 144 is: 12
